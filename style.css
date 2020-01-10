@@ -1,0 +1,19 @@
+body {
+    background-image: url("assets/cloudy-day.png");
+  }
+
+.header{
+    background-color: #ffd900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+#search{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 14px;
+}
+
+#city-selection{
+    background-color: rgb(0, 255, 221);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
