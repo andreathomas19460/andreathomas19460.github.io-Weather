@@ -18,7 +18,7 @@ The webpage is comprised of:
 
 ## Deployment
 
-Webpage can be found at this link: 
+Webpage can be found at this link: https://andreathomas19460.github.io/andreathomas19460.github.io-Weather/
 
 1. Upon page load, user can type desired city name into the search input field
 2. Upon submission of city name, AJAX retrieves data from OpenWeather API
